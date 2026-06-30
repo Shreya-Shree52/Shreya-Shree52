@@ -2,12 +2,10 @@
 
 AI & Machine Learning student building end-to-end ML systems — from data pipelines to deployed applications.
 
-- 🎓 B.E. in Artificial Intelligence and Machine Learning, Rabindranath Tagore University, Bhopal 
-- 🔭 Currently exploring LLM-powered agents and conversational AI systems
-- 💼 Machine Learning Trainee at Rinex Technologies — built time-series forecasting and LSTM pipelines for energy demand prediction
-- 📍 Based in Deoghar, India
+-  B.E. in Artificial Intelligence and Machine Learning, Rabindranath Tagore University, Bhopal 
+-  Currently exploring LLM-powered agents and conversational AI systems
+-  Machine Learning Trainee at Rinex Technologies — built time-series forecasting and LSTM pipelines for energy demand prediction
 
----
 
 ## Tech Stack
 
@@ -17,7 +15,6 @@ AI & Machine Learning student building end-to-end ML systems — from data pipel
 **Databases:** MySQL
 **Tools:** VS Code, Jupyter Notebook, Git
 
----
 
 ## Featured Projects
 
@@ -38,15 +35,14 @@ Autonomous robot built on Arduino Mega with IR-based line navigation, ultrasonic
 `Arduino` `Embedded Systems` `Sensor Integration`
 
 
-## 🏆 Achievements
+## Achievements
 
 - Runner-up, Rhythm AI Innovision Contest, RNTU, Bhopal (2026)
 - Runner-up, Innomakers Competition, SGSU, Bhopal (2025)
 
 
-## 📫 Connect with Me
+## Connect with Me
 
-- 📧 shreyaashre78511@gmail.com
-- ☎️ +91 9113386607
+- shreyaashre78511@gmail.com
 
 
