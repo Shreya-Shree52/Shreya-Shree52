@@ -9,7 +9,7 @@ AI & Machine Learning student building end-to-end ML systems — from data pipel
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Languages:** Python, C++, SQL
 **ML/Data Libraries:** NumPy, Pandas, Scikit-learn, TensorFlow, XGBoost, Matplotlib
@@ -19,9 +19,9 @@ AI & Machine Learning student building end-to-end ML systems — from data pipel
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### [Diabetes Predictor Web App](#)
+### Diabetes Predictor App
 End-to-end ML pipeline for diabetes risk prediction, deployed on Render. Covers EDA, feature engineering (IV/VIF analysis), SMOTE/ADASYN resampling, and hyperparameter tuning on 100K+ healthcare records.
 `Python` `XGBoost` `Scikit-learn` `Streamlit`
 
@@ -33,7 +33,7 @@ LLM-powered conversational agent with multi-turn dialogue and context-aware task
 Seq2seq neural model for generating concise summaries from lengthy email chains, using attention mechanisms to preserve semantic coherence.
 `Python` `TensorFlow/Keras` `NLP`
 
-### Autonomous Line-Following Robot 🏆 Runner-up, Innomakers Competition
+### Autonomous Line-Following Robot, 🏆 Runner-up, Innomakers Competition
 Autonomous robot built on Arduino Mega with IR-based line navigation, ultrasonic obstacle avoidance, and Bluetooth remote control.
 `Arduino` `Embedded Systems` `Sensor Integration`
 
