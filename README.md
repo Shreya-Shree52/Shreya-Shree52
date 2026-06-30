@@ -29,7 +29,7 @@ LLM-powered conversational agent with multi-turn dialogue and context-aware task
 Seq2seq neural model for generating concise summaries from lengthy email chains, using attention mechanisms to preserve semantic coherence.
 `Python` `TensorFlow/Keras` `NLP`
 
-### Autonomous Line-Following Robot, 🏆 Runner-up, Innomakers Competition
+### Autonomous Line-Following Robot, Runner-up, Innomakers Competition
 Autonomous robot built on Arduino Mega with IR-based line navigation, ultrasonic obstacle avoidance, and Bluetooth remote control.
 `Arduino` `Embedded Systems` `Sensor Integration`
 
