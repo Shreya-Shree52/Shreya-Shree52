@@ -1,10 +1,9 @@
 # Hey, I'm Shreya Shree 
 
-AI & Machine Learning student building end-to-end ML systems — from data pipelines to deployed applications.
+AI & Machine Learning Student
 
 -  B.E. in Artificial Intelligence and Machine Learning, Rabindranath Tagore University, Bhopal 
--  Currently exploring LLM-powered agents and conversational AI systems
--  Machine Learning Trainee at Rinex Technologies — built time-series forecasting and LSTM pipelines for energy demand prediction
+-  Ex-Machine Learning Trainee at Rinex Technologies
 
 
 ## Tech Stack
@@ -16,7 +15,7 @@ AI & Machine Learning student building end-to-end ML systems — from data pipel
 **Tools:** VS Code, Jupyter Notebook, Git
 
 
-## Featured Projects
+## Projects
 
 ### Diabetes Predictor App
 End-to-end ML pipeline for diabetes risk prediction, deployed on Render. Covers EDA, feature engineering (IV/VIF analysis), SMOTE/ADASYN resampling, and hyperparameter tuning on 100K+ healthcare records.
